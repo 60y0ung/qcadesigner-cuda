@@ -1,0 +1,1 @@
+A CUDA-enabled simulation engine extending qcadesigner tool by University of British Columbia. The aim is to speed considerably up the simulation of qca based quantum circuits exploiting Nvidia's CUDA technology.
